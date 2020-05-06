@@ -13,3 +13,4 @@ def get_value(name, defValue=None):
         return _global_dict[name]
     except KeyError:
         return defValue
+#aaa
